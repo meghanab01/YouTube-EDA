@@ -4,8 +4,8 @@ This project explores and analyzes a dataset of the most subscribed YouTube chan
 
 ## 🔍 Dataset
 
-- **Source**: [Mention where you got it from, e.g., Kaggle or GitHub]
-- **Attributes**: Channel name, Subscribers, Category, Country, etc.
+- **Source**: Kaggle
+- **Attributes**: Youtuber, subscribers, video views, video count, category, started
 
 ## 🛠️ Tools & Libraries
 
@@ -35,7 +35,6 @@ This project explores and analyzes a dataset of the most subscribed YouTube chan
 ## 🚀 Future Work
 
 - Add time series analysis if date data is included.
-- Create a dashboard using Streamlit or Dash.
 
 ## 💬 Contact
 
